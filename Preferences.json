@@ -1,8 +1,18 @@
 {
+    "editor.tokenColorCustomizations": {
+        "comments": "#d4922f"
+    },
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Omni",
-    "files.autoSave": "afterDelay",
     "editor.fontSize": 18,
     "editor.minimap.enabled": false,
-    "editor.cursorBlinking": "expand"
+    "editor.cursorBlinking": "expand",
+    "files.autoSave": "afterDelay",
+    "code-runner.clearPreviousOutput": true,
+    "git.confirmSync": false,
+    "editor.wordWrap": "on",
+    "json.schemas": [
+        
+        
+    ]
 }
